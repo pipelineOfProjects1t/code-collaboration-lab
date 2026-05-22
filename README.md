@@ -1,7 +1,5 @@
 # Учёт проектов
 
-**Название папки:** `code-collaboration-lab`
-
 **Шаблон проекта:** `Учёт проектов`
 
 **Ссылка на GitHub:** `https://github.com/pipelineOfProjects1t/code-collaboration-lab`
